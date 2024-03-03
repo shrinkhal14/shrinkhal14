@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shrinkhal.</h1>
 <h3 align="center">A passionate Machine Learning Developer from India.</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&psig=AOvVaw0FShgYSSKc7_ZO4sySUBvO&ust=1709565103938000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCdoriw2IQDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 
 - 🌱 I’m currently learning **Machine Learning**
