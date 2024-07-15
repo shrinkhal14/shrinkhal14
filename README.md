@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **ML,Java,UI/UX**
+- 💬 Ask me about **ML,Java,UI/UX,MySQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
